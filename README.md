@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">In my life, I tried in several ways: I graduated in law, I tried to make a public carreer, tried even go to the banking area. However, after many turns, I fell into the world of programming and i have been in love more and more each day.</h3>
+<h3 align="left">In my life, I tried in several ways: I graduated in law, I tried to make a public carreer, tried even go to the banking area. However, after many turns, I fell into the world of programming and i have been in love more and more each day.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
